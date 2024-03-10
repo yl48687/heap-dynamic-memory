@@ -5,7 +5,7 @@ This project involves developing a C program to explore dynamic memory managemen
 The project revolves around a C program structured to utilize dynamic memory allocation for storing grades on the heap. The design includes robust handling of memory allocation, ensuring efficient storage and management of grades while adhering to dynamic memory allocation principles.
 
 ## Functionality
-`grade_processor.c`:
+`grade_processor`:
 - Utilizes dynamic memory allocation and deallocation to store grades on the heap.
 - Processes grades from standard input until a sentinel value (negative input) is encountered, indicating the end of input.
 - Implements strategies to optimize memory usage, including resizing of memory allocation to accommodate additional grades efficiently.
